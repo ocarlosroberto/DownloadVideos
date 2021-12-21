@@ -1,0 +1,16 @@
+{
+  "name": "downloadvideos",
+  "version": "1.0.0",
+  "description": "Demo app to download videos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Roberto Faria da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2"
+  }
+}
